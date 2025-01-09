@@ -1,3 +1,3 @@
 ## 📑| Scripts em C++
 
-   Nesse projeto, realizei diversas 8
+   Nesse projeto, realizei diversas 8 
