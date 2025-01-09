@@ -1,1 +1,1 @@
-Recentemente, em um curso 
+Recentement
