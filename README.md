@@ -1,2 +1,2 @@
-Recentemente, em um curso de Lógica de programação, realizei alguns algoritmos, 
+Recentemente, em um curso de Lógica de programação, realizei alguns algor
 
