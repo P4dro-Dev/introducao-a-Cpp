@@ -1,3 +1,3 @@
 ## 📑| Scripts em C++
 
-   Nesse projeto, realizei cerca 8 questões 
+   Nesse projeto, realizei cerca de8 questões 
