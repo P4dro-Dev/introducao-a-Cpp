@@ -1,1 +1,1 @@
-Recentemente, em um curso de Lógica de
+Recentemente, em um curso 
