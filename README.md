@@ -1,5 +1,5 @@
 ## 🖥️| Trabalho de Introdução a C++
 
-  Nesse repositório, realizei trabalho 
+  Nesse repositório, realizei trabalho de
 
    
