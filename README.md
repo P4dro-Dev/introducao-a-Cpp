@@ -1,3 +1,3 @@
 ## 📑| Scripts em C++
 
-   Nesse projeto, realizei cerc
+   Nesse projeto, realizei ce
