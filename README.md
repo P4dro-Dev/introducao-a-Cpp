@@ -1,3 +1,2 @@
-## 📑| Scripts 
-
+## 📑| Script
    
