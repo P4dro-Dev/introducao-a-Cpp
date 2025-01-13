@@ -1,2 +1,2 @@
-## 🖥️| Trabalho 
+## 🖥️| Trabalho de
    
