@@ -1,3 +1,3 @@
 ## 📑| Scripts em C++
 
-   Nesse projeto, realizei ce
+   Nesse projeto, realizei 
