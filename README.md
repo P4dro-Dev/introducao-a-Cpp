@@ -4,7 +4,7 @@
 
 ## ⌛| Tempo de Resolução Desafio
 
- O tempo que conclusão 
+ O tempo que leconclusão 
 
 ## 🗂️| Estrutura do Projeto
 
