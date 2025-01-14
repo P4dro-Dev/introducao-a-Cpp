@@ -12,7 +12,7 @@
 /meu_projeto
 |-- /src
 |   |-- 
-|   |-- funcoes.cpp
+|   |-- funcoes.c
 |-- /include
 |   |-- funcoes.h
 |-- /lib
