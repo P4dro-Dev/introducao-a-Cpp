@@ -18,7 +18,7 @@ Este projeto está sobre à licença MIT
 
 ## 👥| Contribuições 
 
-   Caso interesse em contrir de 
+   Caso interesse em contrir de alguma
 
 ## 📩| Contatos
 
