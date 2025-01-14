@@ -10,7 +10,7 @@
  
 ## 📑| Licença 
 
-Es
+Este
 
 
    
