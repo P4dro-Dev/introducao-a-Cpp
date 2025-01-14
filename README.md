@@ -10,7 +10,7 @@
  
 ## 📑| Licença 
 
-Este projeto licenciado 
+Este projeto licenciado
 
 
    
