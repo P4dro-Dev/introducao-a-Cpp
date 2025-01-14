@@ -16,7 +16,7 @@
 |-- 
 |   |-- 
 |-- /
-|-- /bin
+|-- /bi
 |-- /docs
 |-- /tests
 |   |-- test_funcoes.cpp
