@@ -4,7 +4,7 @@
 
 ## ⌛| Tempo de Resolução Desafio
 
- O tempo que levei conclusão 
+ O tempo que levei paconclusão 
 
 ## 🗂️| Estrutura do Projeto
 
