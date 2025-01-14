@@ -14,7 +14,7 @@ Este projeto está sobre à licença MIT
 
 ## 👥| Contatos
 
-  📧| E-mail: henri
+  📧| E-mail: henrique
 
 
    
