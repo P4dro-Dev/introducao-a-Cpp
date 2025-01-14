@@ -1,7 +1,7 @@
 ## 🖥️| Trabalho de Introdução a C++
    
   Nesse repositório, realizei trabalho de Introdução a C++, na qual foi do curso de Lógica de programação com C++ Udemy, de 160 horas. Sendo o primeiro projeto, de seis no total.
-
+ 
 ## ⌛| Tempo de Resolução Desafio
 
  O tempo que levei para conclusão do desafio, foi de aproximadamente 1:30
