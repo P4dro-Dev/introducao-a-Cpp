@@ -9,6 +9,19 @@
 ## 🗂️| Estrutura do Projeto
 
    ```
+/meu_projeto
+|-- /src
+|   |-- main.cpp
+|   |-- funcoes.cpp
+|-- /include
+|   |-- funcoes.h
+|-- /lib
+|-- /bin
+|-- /docs
+|-- /tests
+|   |-- test_funcoes.cpp
+|-- README.md
+|-- Makefile
 
 
 
