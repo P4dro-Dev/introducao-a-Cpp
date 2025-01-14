@@ -17,7 +17,7 @@
 |   |-- 
 |-- /
 |-- /
-|-- /do
+|-- /
 |-- /tests
 |   |-- test_funcoes.cpp
 |-- README.md
