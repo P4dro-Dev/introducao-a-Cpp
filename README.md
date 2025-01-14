@@ -19,7 +19,7 @@
 |-- /
 |-- /
 |-- /
-|   |-- test_func
+|   |-- test_
 |-- README.md
 |-- Makefile
 
