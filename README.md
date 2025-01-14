@@ -4,7 +4,7 @@
 
 ## ⌛| Tempo de Resolução Desafio
 
- O tempo que levei para conclusão do desafio, foi de aproximadam
+ O tempo que levei para conclusão do desafio, foi de aproximadamente
 
 ## 🗂️| Estrutura do Projeto
 
