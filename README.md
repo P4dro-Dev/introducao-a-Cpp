@@ -14,7 +14,7 @@
 |   |-- 
 |   |-- 
 |-- /
-|   |-- funcoes.h
+|   |-- funcoe
 |-- /lib
 |-- /bin
 |-- /docs
