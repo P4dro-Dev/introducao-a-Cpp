@@ -18,7 +18,7 @@
 |-- /
 |-- /
 |-- /
-|-- /tes
+|-- /
 |   |-- test_funcoes.cpp
 |-- README.md
 |-- Makefile
