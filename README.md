@@ -13,7 +13,7 @@
 |-- /src
 |   |-- 
 |   |-- 
-|-- /inclu
+|-- /inc
 |   |-- funcoes.h
 |-- /lib
 |-- /bin
