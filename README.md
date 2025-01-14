@@ -19,7 +19,7 @@
 |-- /
 |-- /
 |-- /
-|   |-- test_funcoes.cpp
+|   |-- test_funcoes.cp
 |-- README.md
 |-- Makefile
 
