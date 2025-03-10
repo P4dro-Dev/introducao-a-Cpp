@@ -26,7 +26,7 @@
 
 Este projeto está sobre à licença MIT
 
-## 👥| Contribuições 
+## 👥| Contribuições  
 
    Caso interesse em contrir de alguma com alguma ideia
 
