@@ -32,7 +32,7 @@ Este projeto está sobre à licença MIT
 
 ## 📩| Contatos
 
-  📧| E-mail: henrique.pedro62@aluno.edu.br
+  📧| E-mail: henrique.pedro62@aluno.edu.br 
 
 
    
