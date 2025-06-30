@@ -10,7 +10,7 @@
     
    ```       
 /meu_projeto        
-|-- /src     v
+|-- /src     
 |-- |--I.c++                    
 |-- |--II.c++                  
 |-- |--III.c++                
