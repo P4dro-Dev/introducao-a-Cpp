@@ -9,7 +9,7 @@
 ## 🗂️| Estrutura do Projeto         
     
    ```        
-/meu_projeto         
+/meu_projeto         c
 |-- /src     
 |-- |--I.c++                    
 |-- |--II.c++                   
