@@ -8,7 +8,7 @@
    
 ## 🗂️| Estrutura do Projeto         
       
-   ```                  
+   ```                   
 /meu_projeto                    
 |-- /src               
 |-- |--I.c++                                      
